@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title><link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div class="container">
+    <img src="logo.jpg" alt="logo">
+    <h1>Join our newsletter</h1>
+    <div class="inside-container">
+      <p>Hope you are doing well, I'm Toran here. This is just a medium to share the awareness and truth behind <br>Health Insurance. So lets get educated together,stay connected.</p>
+    </div>
+    <span>Enter your email address</span>
+    <button>Subscribe now</button>
+    <p class="specific">Your email is 100% confidential and won't send you any spam.</p>
+  </div>
+</body>
+</html>
