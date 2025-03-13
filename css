@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(113, 166, 236);
+}
+.container{
+  position: relative;
+  top: 20px;
+  background-color: rgb(189, 223, 244);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+margin: auto;
+  width: 500px;
+  height: 500px;
+  border: 2px solid rgb(229, 223, 223);
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px 1px;
+}
+.container h1{
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+ .inside-container p{
+  /* width: 500px; */
+  /* float:right; */
+  color: rgb(107, 104, 102);
+  padding: 20px;
+  float: right;
+  font-size: large;
+  font-family: sans-serif;
+  display: flex;
+}
+.container img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+span{
+  display: flex;
+  font-weight: 700;
+  color: rgb(99, 105, 105);
+margin: auto;  
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  font-family: sans-serif;
+  font-size: 20px;
+  border: 1px solid black;
+  width: 80%;
+  border-radius: 15px;
+  background-color: white;
+  border: 2px solid white;
+}
+
+button{
+  width: 80%;
+  padding: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: blue;
+  border-radius: 25px;
+  border: none;
+  color: white;
+}
+
+.specific{
+  padding: 20px;
+  font-size: 15px;
+  color: rgb(90, 87, 84);
+  position: relative;
+  right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
